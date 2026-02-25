@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "840383929208",
+    "firebase_url": "https://taim-test-d56d3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "taim-test-d56d3",
+    "storage_bucket": "taim-test-d56d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840383929208:android:488ee071dd0dc65964868d",
+        "android_client_info": {
+          "package_name": "com.codingLab.tasslim_locker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840383929208-2n7sb76ef9cd1o9uq25hcqhfuljmbmaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOrhTFOe8CTvvvmp7swncP9zhdiHMtsgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840383929208-2n7sb76ef9cd1o9uq25hcqhfuljmbmaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
